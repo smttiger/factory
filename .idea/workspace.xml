@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="275dddf8-fad0-459c-a61f-d2637551eaa9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1880442262">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="36" />
+          <entry key="java" value="6877" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6877" />
+          <entry key="PLAIN_TEXT" value="36" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="160" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="160" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/FlashLightFactoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-418">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/TwoAccFlashLightTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/TwoAccFlashLight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/ThreeAccLedFlashLight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/TwoBattFlashLightTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/FlashLightWithRadioTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/OneStationAccRadioTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/OneStationBattRadioTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/SimpleFlashLightTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/ThreeAccLedFlashLightTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/battery/AbstractBattery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/battery/Accumulator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/FlashLightTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/SimpleFlashLightTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/radio/OneStationRadio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/battery/ABattery.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/OneStationBattRadioTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/OneStationAccRadioTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/AccumulatorFlashLight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/light/ALight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/radio/Radio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/battery/ChineseBattery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/battery/DuracellBattery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/battery/SomeBattery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/battery/TheAccumulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/AccFlashLight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/AFlashLight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/AFlashLightWithRadio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/FlashLightWithRadio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/SimpleFlashLight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/ThreeAccLedFlashLight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/TwoBattFlashLight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/light/IncandecsentLamp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/light/LedLamp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/radio/OneStationAccRadio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/radio/OneStationBattRadio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/AFlashLightFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/FlashLightFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/AccumulatorFlashLightTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/FlashLightFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/FlashLightWithRadioTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/ThreeAccLedFlashLightTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/TwoAccFlashLightTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/TwoBattFlashLightTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/TwoAccFlashLight.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="y" value="1" />
+    <option name="width" value="1022" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FlashLightFactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlashLightFactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlashLightFactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlashLightFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlashLightFactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlashLightFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlashLightFactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlashLightFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlashLightFactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlashLightFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fabiyanski" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlashLightFactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlashLightFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fabiyanski" type="462c0819:PsiDirectoryNode" />
+              <item name="battery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlashLightFactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlashLightFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fabiyanski" type="462c0819:PsiDirectoryNode" />
+              <item name="flashlight" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlashLightFactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlashLightFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fabiyanski" type="462c0819:PsiDirectoryNode" />
+              <item name="light" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlashLightFactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlashLightFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fabiyanski" type="462c0819:PsiDirectoryNode" />
+              <item name="radio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlashLightFactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlashLightFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlashLightFactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlashLightFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlashLightFactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlashLightFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fabiyanski" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlashLightFactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549290200064" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1548582326705953/task73" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ThreeAccLedFlashLightTest.AccumulatorRechargeTest">
+    <configuration name="FlashLightWithRadioTest.FlashLightWithRadioAccumulatorRechargeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FlashLightFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itstep.fabiyanski.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itstep.fabiyanski" />
+      <option name="MAIN_CLASS_NAME" value="com.itstep.fabiyanski.FlashLightWithRadioTest" />
+      <option name="METHOD_NAME" value="FlashLightWithRadioAccumulatorRechargeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeAccLedFlashLightTest.AccumulatorRechargeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FlashLightFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itstep.fabiyanski.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itstep.fabiyanski" />
+      <option name="MAIN_CLASS_NAME" value="com.itstep.fabiyanski.ThreeAccLedFlashLightTest" />
+      <option name="METHOD_NAME" value="AccumulatorRechargeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeAccLedFlashLightTest.ThreeAccLedFlashlightShowCurrentChargeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FlashLightFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itstep.fabiyanski.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itstep.fabiyanski" />
+      <option name="MAIN_CLASS_NAME" value="com.itstep.fabiyanski.ThreeAccLedFlashLightTest" />
+      <option name="METHOD_NAME" value="ThreeAccLedFlashlightShowCurrentChargeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeAccLedFlashLightTest.ThreeAccLedFlashlightTurnOffTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FlashLightFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itstep.fabiyanski.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itstep.fabiyanski" />
+      <option name="MAIN_CLASS_NAME" value="com.itstep.fabiyanski.ThreeAccLedFlashLightTest" />
+      <option name="METHOD_NAME" value="ThreeAccLedFlashlightTurnOffTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeAccLedFlashLightTest.ThreeAccLedFlashlightTurnOnTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FlashLightFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itstep.fabiyanski.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itstep.fabiyanski" />
+      <option name="MAIN_CLASS_NAME" value="com.itstep.fabiyanski.ThreeAccLedFlashLightTest" />
+      <option name="METHOD_NAME" value="ThreeAccLedFlashlightTurnOnTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.FlashLightWithRadioTest.FlashLightWithRadioAccumulatorRechargeTest" />
+      <item itemvalue="JUnit.ThreeAccLedFlashLightTest.ThreeAccLedFlashlightTurnOnTest" />
+      <item itemvalue="JUnit.ThreeAccLedFlashLightTest.ThreeAccLedFlashlightTurnOffTest" />
+      <item itemvalue="JUnit.ThreeAccLedFlashLightTest.ThreeAccLedFlashlightShowCurrentChargeTest" />
+      <item itemvalue="JUnit.ThreeAccLedFlashLightTest.AccumulatorRechargeTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ThreeAccLedFlashLightTest.AccumulatorRechargeTest" />
+        <item itemvalue="JUnit.ThreeAccLedFlashLightTest.ThreeAccLedFlashlightShowCurrentChargeTest" />
+        <item itemvalue="JUnit.ThreeAccLedFlashLightTest.ThreeAccLedFlashlightTurnOnTest" />
+        <item itemvalue="JUnit.ThreeAccLedFlashLightTest.ThreeAccLedFlashlightTurnOffTest" />
+        <item itemvalue="JUnit.FlashLightWithRadioTest.FlashLightWithRadioAccumulatorRechargeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="275dddf8-fad0-459c-a61f-d2637551eaa9" name="Default Changelist" comment="" />
+      <created>1548947543884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548947543884</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FlashLightWithRadioTest_FlashLightWithRadioTurnOffTest - 2019.02.04 at 15h 57m 44s.xml">
+      <configuration name="FlashLightWithRadioTest.FlashLightWithRadioTurnOffTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlashLightWithRadioTest_FlashLightWithRadioTurnOnRadioTest - 2019.02.04 at 15h 57m 53s.xml">
+      <configuration name="FlashLightWithRadioTest.FlashLightWithRadioTurnOnRadioTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlashLightWithRadioTest_FlashLightWithRadioTurnOffRadioTest - 2019.02.04 at 15h 58m 00s.xml">
+      <configuration name="FlashLightWithRadioTest.FlashLightWithRadioTurnOffRadioTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlashLightWithRadioTest_FlashLightWithRadioShowCurrentChargeTest - 2019.02.04 at 15h 58m 09s.xml">
+      <configuration name="FlashLightWithRadioTest.FlashLightWithRadioShowCurrentChargeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlashLightWithRadioTest_FlashLightWithRadioAccumulatorRechargeTest - 2019.02.04 at 15h 58m 16s.xml">
+      <configuration name="FlashLightWithRadioTest.FlashLightWithRadioAccumulatorRechargeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreeAccLedFlashLightTest_ThreeAccLedFlashlightTurnOffTest - 2019.02.04 at 16h 14m 05s.xml">
+      <configuration name="ThreeAccLedFlashLightTest.ThreeAccLedFlashlightTurnOffTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreeAccLedFlashLightTest_ThreeAccLedFlashlightTurnOnTest - 2019.02.04 at 16h 14m 27s.xml">
+      <configuration name="ThreeAccLedFlashLightTest.ThreeAccLedFlashlightTurnOnTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreeAccLedFlashLightTest_ThreeAccLedFlashlightShowCurrentChargeTest - 2019.02.04 at 16h 14m 40s.xml">
+      <configuration name="ThreeAccLedFlashLightTest.ThreeAccLedFlashlightShowCurrentChargeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreeAccLedFlashLightTest_ThreeAccLedFlashlightShowCurrentChargeTest - 2019.02.04 at 16h 15m 57s.xml">
+      <configuration name="ThreeAccLedFlashLightTest.ThreeAccLedFlashlightShowCurrentChargeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreeAccLedFlashLightTest_AccumulatorRechargeTest - 2019.02.04 at 16h 16m 11s.xml">
+      <configuration name="ThreeAccLedFlashLightTest.AccumulatorRechargeTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15770172" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32922733" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32922733" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/FlashLightFactory.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/battery/ABattery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/battery/Accumulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/battery/ChineseBattery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/battery/DuracellBattery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/battery/SomeBattery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/battery/TheAccumulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/AccFlashLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/AccumulatorFlashLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/AFlashLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/AFlashLightWithRadio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/FlashLightWithRadio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="e#1154#1155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/SimpleFlashLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/TwoBattFlashLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/light/ALight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/light/IncandecsentLamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/light/LedLamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/radio/OneStationAccRadio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/radio/OneStationBattRadio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/radio/Radio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/AFlashLightFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/FlashLightFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/AccumulatorFlashLightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/FlashLightFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/FlashLightWithRadioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/OneStationAccRadioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/OneStationBattRadioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/SimpleFlashLightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/ThreeAccLedFlashLightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/TwoAccFlashLightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/itstep/fabiyanski/TwoBattFlashLightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/TwoAccFlashLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstep/fabiyanski/flashlight/ThreeAccLedFlashLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
